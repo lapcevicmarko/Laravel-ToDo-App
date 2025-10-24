@@ -28,8 +28,8 @@ A simple task management application built with Laravel.
 
 Clone the repository and install dependencies:
 
-- git clone https://github.com/your-username/laravel-todo.git
-- cd laravel-todo
+- git clone https://github.com/lapcevicmarko/Laravel-ToDo-App.git
+- cd Laravel-ToDo-App
 - composer install
 - npm install
 
