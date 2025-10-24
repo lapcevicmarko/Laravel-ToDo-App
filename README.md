@@ -10,7 +10,6 @@ A simple task management application built with Laravel.
 - Mark tasks as completed
 - Filter tasks by status
 - Responsive UI with Blade templates
-- Optional: Tailwind CSS or Bootstrap integration
 
 ---
 
