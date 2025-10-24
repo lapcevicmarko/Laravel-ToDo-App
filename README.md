@@ -77,4 +77,4 @@ Run unit and feature tests using PHPUnit:
 
 ## Author
 
-Lapčević Marko
+Developed by Marko Lapčević.
