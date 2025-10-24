@@ -17,9 +17,9 @@ A simple task management application built with Laravel.
 
 - Laravel 10
 - PHP 8.1+
-- MySQL or SQLite
+- MySQL
 - Blade templating engine
-- Optional: Tailwind CSS / Bootstrap
+- CSS
 - Composer & npm
 
 ---
