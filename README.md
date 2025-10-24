@@ -28,15 +28,15 @@ A simple task management application built with Laravel.
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/laravel-todo.git
-cd laravel-todo
-composer install
-npm install
+- git clone https://github.com/your-username/laravel-todo.git
+- cd laravel-todo
+- composer install
+- npm install
 
 Copy the example environment file and generate the app key:
 
-cp .env.example .env
-php artisan key:generate
+- cp .env.example .env
+- php artisan key:generate
 
 Configure your .env file with database credentials:
 
@@ -49,12 +49,12 @@ Configure your .env file with database credentials:
 
 Run migrations and optionally seed the database:
 
-php artisan migrate
-php artisan db:seed
+- php artisan migrate
+- php artisan db:seed
 
 Start the development server:
 
-php artisan serve
+- php artisan serve
 
 Visit http://127.0.0.1:8000 to view the app.
 
@@ -64,7 +64,7 @@ Visit http://127.0.0.1:8000 to view the app.
 
 Run unit and feature tests using PHPUnit:
 
-php artisan test
+- php artisan test
 
 ## Project Structure
 
