@@ -72,3 +72,9 @@ Run unit and feature tests using PHPUnit:
 - app/Models/Task.php – Task model
 - app/Http/Controllers/TaskController.php – CRUD logic
 - resources/views/ – Blade templates
+
+---
+
+## Author
+
+Lapčević Marko
