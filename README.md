@@ -66,6 +66,8 @@ Run unit and feature tests using PHPUnit:
 
 - php artisan test
 
+---
+
 ## Project Structure
 
 - routes/web.php – Application routes
