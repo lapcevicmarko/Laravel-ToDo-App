@@ -15,7 +15,7 @@ A simple task management application built with Laravel.
 
 ## Tech Stack
 
-- Laravel 10
+- Laravel 12.0
 - PHP 8.1+
 - MySQL
 - Blade templating engine
