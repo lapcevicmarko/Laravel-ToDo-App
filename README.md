@@ -1,6 +1,6 @@
 # Laravel To-Do App
 
-A simple task management application built with Laravel.
+A simple task management application built with Laravel..
 
 ---
 
